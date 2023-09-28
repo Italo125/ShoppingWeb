@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopWeb", "ShopWeb\ShopWeb.csproj", "{8E4A5CFA-4E92-45E2-A047-B6E143E0151B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopApi", "ShopApi\ShopApi.csproj", "{173DD7ED-070C-4785-9725-0B26B7BC237D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopModels", "ShopModels\ShopModels.csproj", "{83E30676-BBBF-4A86-AA2F-D4733B029396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4A5CFA-4E92-45E2-A047-B6E143E0151B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4A5CFA-4E92-45E2-A047-B6E143E0151B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4A5CFA-4E92-45E2-A047-B6E143E0151B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4A5CFA-4E92-45E2-A047-B6E143E0151B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173DD7ED-070C-4785-9725-0B26B7BC237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173DD7ED-070C-4785-9725-0B26B7BC237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173DD7ED-070C-4785-9725-0B26B7BC237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173DD7ED-070C-4785-9725-0B26B7BC237D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E30676-BBBF-4A86-AA2F-D4733B029396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E30676-BBBF-4A86-AA2F-D4733B029396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E30676-BBBF-4A86-AA2F-D4733B029396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E30676-BBBF-4A86-AA2F-D4733B029396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8530FC9-0728-4152-8D73-36FB81565351}
+	EndGlobalSection
+EndGlobal
